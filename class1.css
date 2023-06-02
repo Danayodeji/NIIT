@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+table{
+    height: 50vh;
+    width: 100%;
+    border: 0ch;
+}
+
+caption{
+    font-style: italic;
+    font-weight: 900;
+    font-size: 25px;
+    color: rgb(33, 17, 48);
+    margin-top: 40px;
+}
+
+.t-head{
+    background-color: rgb(37, 6, 66);
+    color: azure;
+    font-size: 30px;
+    
+}
+
+.t-head td {
+padding: 5px 30px;
+border-radius: 20px;
+
+}
+
+tr{
+    background-color: rgb(78, 48, 107);
+    color: aliceblue;
+    font-size: 20px;
+       
+}
+
+tr td{
+    padding: 3px 2px;
+}
+
+.t-foot{
+    background-color: rgb(35, 6, 63);
+}
+
+.t-foot td{
+    font-size: 30px;
+    padding: 10px;
+}
